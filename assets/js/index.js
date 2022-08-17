@@ -16,7 +16,7 @@ $(function() {
   
         // 关闭 confirm 询问框
         layer.close(index)
-      })
+      }) 
     })
   })
 // 获取用户的基本信息
